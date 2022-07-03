@@ -1,5 +1,7 @@
-Taking a sabbatical 🏝  ( in the metaverse 👾 )
+kempsterrrr | Developer, Founder and DAO Operatooor.
 
-Hi I'm Will. Tech recruiter in my previous life, now reformed as an dev getting heavily into crypto and web3. Main skills are React (in various guises: CRA, Gratsby, Next.js), plain old JavaScript (ES6+) and CSS (working on this one more).
+Builder working in DAOs.
 
-[DeveloperDAO](https://www.developerdao.com/) | Dev #1948
+Helping Developers maximise their impact in web3 @ [Developer DAO](https://www.developerdao.com/) and unlocking better contributors rewards via [P3RKS](https://twitter.com/getp3rks).
+
+[![Twitter]](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)(https://twitter.com/kempsterrrr)
